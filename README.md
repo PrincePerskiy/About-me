@@ -42,5 +42,5 @@ When I'm not looking at a terminal screen, you can find me playing video games. 
 ## 📫 Contact Me
 
 Let's build something awesome together.
-- 💬 Message me on Telegram: [@your_telegram_username]([https://t.me/your_telegram_username](https://t.me/princepersia001))
+- 💬 Message me on Telegram: https://t.me/princepersia001
 - 📧 Shoot me an email: princepersia001k@gmail.com
